@@ -1,4 +1,4 @@
-# 
+# smart Obsidian for Windows Extension | export-options + version-history offers the most advanced Obsidian for Windows extension, with export-options and version-history. Ideal for
 
 
 
